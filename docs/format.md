@@ -1,5 +1,7 @@
 # v1 File Format
 
+Each file begins with `kepler22b.uk/seal/v1`
+
 Each file consists of one or more signature blocks
 
 Each signature block begins with '->' and contains a header which specifies:
